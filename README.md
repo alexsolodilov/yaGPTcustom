@@ -1,0 +1,2 @@
+# yaGPTcustom
+model training scripts
